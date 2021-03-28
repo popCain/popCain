@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @popCain
-- 👀 I’m interested in poppin
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in *poppin*
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me `zkyun0219@gmail.com`
 
 <!---
 popCain/popCain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
